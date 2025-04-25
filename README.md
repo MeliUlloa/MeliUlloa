@@ -9,9 +9,15 @@ Me encanta aprender, crecer y ser parte de proyectos que me desafíen tanto en <
 
 ### 💼 Tecnologías y herramientas que uso:
 
-- 🧩 **Frontend:** Angular · React · Vue · HTML · CSS · JavaScript · TypeScript  
-- 🛠️ **Backend:** Node.js · NestJS · Python  
-- 🧪 **Herramientas:** Postman · Figma · Trello  
+
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
@@ -29,4 +35,7 @@ Agregá acá tus redes o links favoritos ✨ <br/>
 <p align="center">
 Gracias por visitar mi perfil 🌸 ¡Nos vemos entre líneas de código! 👩‍💻💖
 </p>
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=tuusuario&label=Visitas+al+perfil&color=ff69b4&style=flat)
+
 
