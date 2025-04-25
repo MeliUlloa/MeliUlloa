@@ -23,7 +23,6 @@ Me encanta aprender, crecer y ser parte de proyectos que me desafíen tanto en <
 ### 📲 ¡Conectemos!
 
 <p>
-Agregá acá tus redes o links favoritos ✨ <br/>
 
 - 💌 Email: melinaulloa98@gmail.com  
 - 💬 Discord: Meli40k
