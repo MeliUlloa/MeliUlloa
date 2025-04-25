@@ -5,7 +5,6 @@ Desarrolladora <strong>Full Stack</strong> con pasión por crear soluciones prá
 Me encanta aprender, crecer y ser parte de proyectos que me desafíen tanto en <strong>frontend</strong> como en <strong>backend</strong> 💪
 </p>
 
----
 
 ### 💼 Tecnologías y herramientas que uso:
 
