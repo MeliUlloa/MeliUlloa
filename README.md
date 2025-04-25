@@ -35,6 +35,8 @@ Agregá acá tus redes o links favoritos ✨ <br/>
 Gracias por visitar mi perfil 🌸 ¡Nos vemos entre líneas de código! 👩‍💻💖
 </p>
 
-(https://komarev.com/ghpvc/?username=tuusuario&label=Visitas+al+perfil&color=ff69b4&style=flat)
+<p align="center">
+📈 <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Visitas+al+perfil&color=FFB6C1&style=flat" alt="Contador de visitas" />
+</p>
 
 
