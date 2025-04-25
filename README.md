@@ -20,10 +20,8 @@ Me encanta aprender, crecer y ser parte de proyectos que me desafíen tanto en <
 <p>
 Agregá acá tus redes o links favoritos ✨ <br/>
 
-- 💌 Email: tuemail@example.com  
-- 💼 <a href="https://linkedin.com/in/tuusuario" target="_blank">LinkedIn</a>  
-- 🌐 <a href="https://tusitio.dev" target="_blank">Portfolio</a>  
-- 🐱 <a href="https://github.com/tuusuario" target="_blank">GitHub</a>  
+- 💌 Email: melinaulloa98@gmail.com  
+- 💬 Discord: Meli40k
 </p>
 
 ---
